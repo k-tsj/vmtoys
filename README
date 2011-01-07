@@ -1,0 +1,2 @@
+`vmtoys' is a collection of simple utilities for VMware guests(x64 Linux).
+Run make to compile it.
